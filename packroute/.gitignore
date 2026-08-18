@@ -1,0 +1,9 @@
+# Archivos sensibles
+.env
+.env.*
+config.local.*
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
