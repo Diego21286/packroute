@@ -37,7 +37,3 @@ PackRoute centraliza la jornada de reparto y permite organizar paquetes, prepara
 ## Autor
 
 Desarrollado por Diego Texeira.
-
-## Uso en portfolio
-
-Este repositorio puede utilizarse como documentación pública del proyecto y como fuente de imágenes para el portfolio de Texeira Web.
